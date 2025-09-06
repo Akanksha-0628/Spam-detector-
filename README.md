@@ -22,7 +22,7 @@ A machine learning project that classifies SMS messages as **Spam** or **Ham (No
 
 ## ⚙️ Installation  
 ```bash
-git clone https://github.com/your-username/spam-detector-ml.git
+https://github.com/Akanksha-0628/Spam-detector-
 cd spam-detector-ml
 pip install -r requirements.txt
 python app.py
